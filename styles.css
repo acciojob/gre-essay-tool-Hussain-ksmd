@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+      #evaluatedText {
+        width: 500px;
+        height: 200px;
+      }
+      #wordCount {
+        font-size: 18px;
+        font-weight: bold;
+      }
